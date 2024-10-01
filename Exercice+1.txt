@@ -1,0 +1,9 @@
+EXERCICE 1:
+
+1) Créer un dossier  "Galerie"
+2) Créer un fichier "Index.html" avec un h1 "Mon premier commit"
+3) Initialisez un dépôt 
+4) Verifier le status avec la commande correspondante
+5) Ajouter votre fichier "index.html" au dépôt
+6) Faite un commit de ce fichier avec le message "Premier commit"
+7) Faite la commande pour regarder l'historique des commits

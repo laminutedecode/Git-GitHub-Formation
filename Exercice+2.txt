@@ -1,0 +1,14 @@
+EXERCICE 2:
+
+1) Créer un dossier "Folio"
+2) Initialisez avec git
+3) Créer un "index.html" avec un h1 "titre"
+4) Créer un commit 
+5) Créer une branch "Test"
+6) Crée dans la branch "Test" un fichier "app.js" avec "console.log('hello')'
+7) Créer un commit 
+10) Fusionner la branch "master" avec "Test"
+11) Créer un conflit.
+12) Fusionner de nouveau la branch "master" avec "Test"
+13) Résoudre le conflit
+
